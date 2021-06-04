@@ -63,7 +63,7 @@ export const AdminButton = styled.button`
     justify-content: center;
     align-items: center;
     font-size: 25px;
-    color: #000;
+    color: #fff;
     border-radius: 10px;
     background: #FA4D56;
     padding: 0.25em 0.5em;
