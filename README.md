@@ -23,13 +23,13 @@ Now my athletic life is simplified!
 
 ## Built With
 
-- CSS
 - JavaScript
 - [React](https://fr.reactjs.org/)
 - [Redux](https://redux.js.org/)
 - [Axios](https://www.npmjs.com/package/axios)
 - [Styled Components](https://styled-components.com/)
 - [useSound](https://www.npmjs.com/package/use-sound)
+- [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
 - [Mongoose](https://mongoosejs.com/)
 - [MongoDB](https://www.mongodb.com/)
