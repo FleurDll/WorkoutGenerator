@@ -46,27 +46,28 @@ MongoDB database with three collections :
 ## Preview
 
 - Desktop <br>
-  <p align="center">
- <a href="https://workoutgeneratorfd.herokuapp.com">
-  <img src="https://user-images.githubusercontent.com/75179031/120809739-ae73ab80-c54a-11eb-9a8e-7cb36f235a4e.png" width="750" height="500">
+
+<p align="center">
+  <a href="https://workoutgeneratorfd.herokuapp.com">
+    <img src="https://user-images.githubusercontent.com/75179031/120809739-ae73ab80-c54a-11eb-9a8e-7cb36f235a4e.png" width="750" height="500">
   <a/>
 </p>
   
-  <p align="center">
- <a href="https://workoutgeneratorfd.herokuapp.com">
-  <img src="https://user-images.githubusercontent.com/75179031/120809761-b2073280-c54a-11eb-984c-913b592ed7ea.png" width="750" height="500">
+<p align="center">
+  <a href="https://workoutgeneratorfd.herokuapp.com">
+    <img src="https://user-images.githubusercontent.com/75179031/120809761-b2073280-c54a-11eb-984c-913b592ed7ea.png" width="750" height="500">
   <a/>
 </p>
     
-  <p align="center">
- <a href="https://workoutgeneratorfd.herokuapp.com">
-  <img src="https://user-images.githubusercontent.com/75179031/120809744-afa4d880-c54a-11eb-9d83-6d943760f2f3.png" width="750" height="500">
+<p align="center">
+  <a href="https://workoutgeneratorfd.herokuapp.com">
+    <img src="https://user-images.githubusercontent.com/75179031/120809744-afa4d880-c54a-11eb-9d83-6d943760f2f3.png" width="750" height="500">
   <a/>
 </p>
       
-  <p align="center">
- <a href="https://workoutgeneratorfd.herokuapp.com">
-  <img src="https://user-images.githubusercontent.com/75179031/120809755-b0d60580-c54a-11eb-9d16-5d12797bb2d9.png" width="750" height="500">
+<p align="center">
+  <a href="https://workoutgeneratorfd.herokuapp.com">
+    <img src="https://user-images.githubusercontent.com/75179031/120809755-b0d60580-c54a-11eb-9d16-5d12797bb2d9.png" width="750" height="500">
   <a/>
 </p>
 
